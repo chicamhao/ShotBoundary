@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(81,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(191,6): error C2601: 'runProgramX': local function definitions are illegal
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(154): message : this line contains a '{' which has not yet been matched
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(462,6): error C2182: 'WirteXmlBodyinLogo': illegal use of type 'void'
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(462,25): error C2065: 'xml_node': undeclared identifier
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(462,34): error C2059: syntax error: '>'
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(462,55): error C2143: syntax error: missing ';' before '{'
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(467,21): error C2065: 'docLogo': undeclared identifier
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(470,2): error C2065: 'xml_node': undeclared identifier
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(470,11): error C2059: syntax error: '>'
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(471,2): error C2065: 'child': undeclared identifier
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(471,26): error C2065: 'docLogo': undeclared identifier
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(472,2): error C2065: 'root': undeclared identifier
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(472,20): error C2065: 'child': undeclared identifier
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(476,6): error C2182: 'WirteXmlBodyinCut': illegal use of type 'void'
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(476,24): error C2065: 'xml_node': undeclared identifier
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(476,33): error C2059: syntax error: '>'
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(476,54): error C2143: syntax error: missing ';' before '{'
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(481,21): error C2065: 'docCut': undeclared identifier
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(484,2): error C2065: 'xml_node': undeclared identifier
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(484,11): error C2059: syntax error: '>'
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(485,2): error C2065: 'child': undeclared identifier
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(485,26): error C2065: 'docCut': undeclared identifier
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(486,2): error C2065: 'root': undeclared identifier
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(486,20): error C2065: 'child': undeclared identifier
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(489,35): error C2601: 'SearchMax': local function definitions are illegal
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(154): message : this line contains a '{' which has not yet been matched
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(501,48): error C2601: 'DrawChart': local function definitions are illegal
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(154): message : this line contains a '{' which has not yet been matched
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(521,63): error C2601: 'DrawHist11': local function definitions are illegal
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(154): message : this line contains a '{' which has not yet been matched
+C:\Users\bluev\OneDrive\Documents\Desktop\18120353\18120353\main.cpp(154): fatal error C1075: '{': no matching token found
