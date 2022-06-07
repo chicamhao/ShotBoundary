@@ -1,0 +1,15 @@
+Histogram: frame: 15, weight :1
+Histogram: frame: 23, weight :1
+Histogram: frame: 1, weight :0
+Histogram: frame: 3, weight :0
+Histogram: frame: 5, weight :0
+Histogram: frame: 7, weight :0
+Histogram: frame: 9, weight :0
+Histogram: frame: 11, weight :0
+Histogram: frame: 13, weight :0
+Histogram: frame: 17, weight :0
+Histogram: frame: 19, weight :0
+Histogram: frame: 21, weight :0
+Histogram: frame: 25, weight :0
+Histogram: frame: 27, weight :0
+Histogram: frame: 29, weight :0

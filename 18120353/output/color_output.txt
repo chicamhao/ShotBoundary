@@ -1,0 +1,15 @@
+Color: frame: 29, weight :23
+Color: frame: 23, weight :22
+Color: frame: 25, weight :22
+Color: frame: 27, weight :22
+Color: frame: 19, weight :21
+Color: frame: 21, weight :21
+Color: frame: 13, weight :20
+Color: frame: 15, weight :20
+Color: frame: 17, weight :20
+Color: frame: 3, weight :19
+Color: frame: 7, weight :19
+Color: frame: 9, weight :19
+Color: frame: 11, weight :19
+Color: frame: 1, weight :18
+Color: frame: 5, weight :18
